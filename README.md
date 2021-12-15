@@ -1,4 +1,4 @@
-# SnakeGame
+# Snake Game
 
 Clássico jogo da cobrinha feito utilizando html, css e javascript
 
